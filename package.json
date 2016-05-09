@@ -1,0 +1,33 @@
+{
+  "name": "redux-saga-example",
+  "version": "0.0.0",
+  "description": "My well-made module",
+  "license": "MIT",
+  "repository": "akameco/redux-saga-example",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "redux",
+    "redux-saga"
+  ],
+  "dependencies": {
+    "redux": "^3.5.2",
+    "redux-saga": "^0.10.2"
+  },
+  "devDependencies": {
+    "xo": "^0.15.0"
+  }
+}
