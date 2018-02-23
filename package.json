@@ -25,9 +25,9 @@
   ],
   "dependencies": {
     "redux": "^3.5.2",
-    "redux-saga": "^0.10.2"
+    "redux-saga": "^0.16.0"
   },
   "devDependencies": {
-    "xo": "^0.15.0"
+    "xo": "^0.20.3"
   }
 }
